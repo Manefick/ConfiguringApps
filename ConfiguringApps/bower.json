@@ -1,7 +1,18 @@
 {
   "name": "asp.net",
-  "private": "True",
-  "dependencies": {
-    "bootstrap": "4.0.0-alpha.6"
-  }
+  "homepage": "https://github.com/Manefick/ConfiguringApps",
+  "authors": [
+    "Alex Grinchuck <alex.grinchuck@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
